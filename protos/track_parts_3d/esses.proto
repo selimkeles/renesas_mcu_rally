@@ -1,0 +1,36 @@
+#VRML_SIM R2021a utf8
+
+PROTO esses [
+
+]
+{
+Group {
+  children [
+    MCUStraight3D {
+      translation -0.915712 0 1.74447
+      rotation 0 1 0 0.785398
+      length 2
+    }
+    MCUCurve6003D {
+      translation 2.02726 0.002 1.65398
+      rotation 0 -1 0 -2.356185307179586
+    }
+    MCUCurve4503D {
+      translation 1.15536 0.002 1.08192
+      rotation 0 1 0 -0.785395307179586
+    }
+    MCUCurve6003D {
+      translation 1.14836 0 1.26436
+      rotation 0 -1 0 -2.3561953071795863
+    }
+    MCUCurve4503D {
+      translation 0.294156 0 0.711848
+      rotation 0 1 0 -0.785395307179586
+    }
+    MCUCurve6003D {
+      translation -0.197 0 0.929
+      rotation 0 1 0 0
+    }
+  ]
+}
+}
